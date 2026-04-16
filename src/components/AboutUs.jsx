@@ -5,15 +5,15 @@ import { ArrowRight } from 'lucide-react';
 import { useLanguage } from '@/context/LanguageContext';
 
 const images = [
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/432943948daf804d4c3f9c75d37a9e94.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/a99215e22a3106180139226245522ea5.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/1376c9fec071ea4671cf875b900ab540.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/b189a5f8307b221a03cb076b1d96f227.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/730526e1ac40d2fcb9515c16e2c1f5a7.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/364d2ef45386c31487c1643d20ecf38b.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/044ef0dabd9970863c30a3be938a60b2.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/26d5f65fa2913d47d8bb5cc5432aae2f.jpg",
-  "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/1aa11020391405276389ceeadbd20f04.jpg"
+  "/images/sanmartin.jpg",
+  "/images/bombero.jpg",
+  "/images/instalacion.jpg",
+  "/images/comuna.jpg",
+  "/images/supermoon.jpg",
+  "/images/edgecity.jpg",
+  "/images/devconnect.jpg",
+  "/images/devconnect1.jpg",
+  "/images/devconnect4.jpg"
 ];
 
 const AboutUs = () => {

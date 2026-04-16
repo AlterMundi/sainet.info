@@ -46,9 +46,9 @@ const EarlyAlert = () => {
               </span>
             </div>
             
-            <img 
-              src="https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/48d22b045ba547c2c77e6daa90f38192.png" 
-              alt="Detección de humo por inteligencia artificial en sierras de Córdoba" 
+            <img
+              src="/images/fire-smoke.png"
+              alt="Detección de humo por inteligencia artificial en sierras de Córdoba"
               className="w-full h-auto object-cover transform group-hover:scale-105 transition-transform duration-700"
             />
             
@@ -80,7 +80,7 @@ const EarlyAlert = () => {
             </div>
 
             <img 
-              src="https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/3ea795d142fa11c8bab2730c3ddb65b2.jpg" 
+              src="/images/sai-execution-426444.webp" 
               alt="Paisaje de sierras monitoreado por cámara Reolink" 
               className="w-full h-auto object-cover transform group-hover:scale-105 transition-transform duration-700"
             />

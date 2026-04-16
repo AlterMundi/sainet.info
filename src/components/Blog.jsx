@@ -19,7 +19,7 @@ const Blog = () => {
       date: "15 Oct 2024",
       author: "Equipo SAI",
       category: "Eventos",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/64ce67e004469ba3fe8f1d383c2898da.jpg",
+      image: "/images/sanmartin.jpg",
       content: t('blog.posts.post1.content')
     },
     {
@@ -29,7 +29,7 @@ const Blog = () => {
       date: "02 Nov 2024",
       author: "Coordinación Operativa",
       category: "Infraestructura",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/c61d85d5896354e70ec1c8cfbf0c8465.jpg",
+      image: "/images/bombero.jpg",
       content: t('blog.posts.post2.content')
     },
     {
@@ -39,7 +39,7 @@ const Blog = () => {
       date: "20 Nov 2024",
       author: "Ingeniería de Campo",
       category: "Infraestructura",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/8f2c8e494d75647a70b619506dcac2ff.jpg",
+      image: "/images/instalacion.jpg",
       content: t('blog.posts.post3.content')
     },
     {
@@ -49,7 +49,7 @@ const Blog = () => {
       date: "05 Dic 2024",
       author: "Comunicación",
       category: "Eventos",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/1aa11020391405276389ceeadbd20f04.jpg",
+      image: "/images/supermoon.jpg",
       content: t('blog.posts.post4.content')
     },
     {
@@ -59,7 +59,7 @@ const Blog = () => {
       date: "10 Dic 2024",
       author: "I+D",
       category: "Eventos",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/730526e1ac40d2fcb9515c16e2c1f5a7.jpg",
+      image: "/images/edgecity.jpg",
       content: t('blog.posts.post5.content')
     },
     {
@@ -69,7 +69,7 @@ const Blog = () => {
       date: "15 Dic 2024",
       author: "Impacto Social",
       category: "Eventos",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/edbd160e77013769c0caedc647277d16.jpg",
+      image: "/images/devconnect.jpg",
       content: t('blog.posts.post6.content')
     },
     {
@@ -79,7 +79,7 @@ const Blog = () => {
       date: "20 Dic 2024",
       author: "Ingeniería",
       category: "Hitos",
-      image: "https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/928dade598a3ff31e368737d69e1b926.jpg",
+      image: "/images/IMG_0649.jpg",
       content: t('blog.posts.post7.content')
     },
     {

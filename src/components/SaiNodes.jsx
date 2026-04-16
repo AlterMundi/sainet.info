@@ -118,7 +118,7 @@ const SaiNodes = () => {
             <div className="relative rounded-3xl overflow-hidden bg-white/5 border border-white/10 p-8 md:p-12 backdrop-blur-md shadow-2xl hover:shadow-[#FF5C00]/10 transition-shadow duration-500">
               <div className="absolute inset-0 bg-gradient-to-br from-[#FF5C00]/5 to-transparent pointer-events-none" />
               <img
-                src="https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/538ddca60e1ab35c3722f8279321fd8c.png"
+                src="/images/esquemadiseño.png"
                 alt="Esquema Técnico SAI"
                 className="w-full h-auto object-contain drop-shadow-2xl hover:scale-[1.02] transition-transform duration-500"
               />

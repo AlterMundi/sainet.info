@@ -108,7 +108,7 @@ const PresentationSlide = () => {
             <div className="relative w-full aspect-[3/4] max-h-[80vh]">
                <div className="absolute inset-0 bg-gradient-to-t from-[#0B2822] via-transparent to-transparent z-20" />
                <img 
-                 src="https://horizons-cdn.hostinger.com/a9cf557e-e310-48ca-81f8-588f294b0695/b28454097a169abbb6dc5ee14c8c818c.png" 
+                 src="/images/esquemadiseño.png" 
                  alt="SAI Node Technical Render" 
                  className="w-full h-full object-contain filter drop-shadow-[0_0_30px_rgba(255,92,0,0.15)] opacity-90 mix-blend-lighten"
                />
